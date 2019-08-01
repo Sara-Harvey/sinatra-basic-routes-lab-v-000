@@ -10,5 +10,5 @@ class App < Sinatra::Base
     "My name is Sara"
   end
 
-  get '/'  
+  #get '/'  
 end
