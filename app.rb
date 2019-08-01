@@ -15,6 +15,6 @@ class App < Sinatra::Base
   end
   
   get '/favorite-song' do
-    "Just Say Yes"
+    "My Favorite Song is Friday I'm in Love"
   end
 end
