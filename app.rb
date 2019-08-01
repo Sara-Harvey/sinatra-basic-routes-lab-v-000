@@ -12,4 +12,5 @@ class App < Sinatra::Base
 
   get '/hometown' do
     "My hometown is Greenville, South Carolina"
+  end
 end
